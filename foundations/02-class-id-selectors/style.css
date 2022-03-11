@@ -1,0 +1,17 @@
+/* styles.css */
+
+.odd {
+    color: black; background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+  .oddly-cool {
+    font-size: 24px;
+  }
+  #line-two {
+     color: blue;
+     font-size: 36px;  
+  }
+  #line-four {
+      color: black; background-color: lightgreen;
+      font-size: 36px; font-weight: 700;
+  }
